@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shahriyear
-- 👀 I’m interested in new technologies
 - 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on php based fintech project
+- 💞️ I’m looking to collaborate on a php-based fintech project
 - 📫 shahriyear@gmail.com
 
 <!---
